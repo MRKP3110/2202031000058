@@ -1,0 +1,621 @@
+.westside9 {
+  position: absolute;
+  top: 51px;
+  left: 38px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-jacques-francois-shadow);
+  cursor: pointer;
+}
+.desktop-9-child {
+  position: absolute;
+  top: 94px;
+  left: 1232px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1460px;
+  height: 128px;
+}
+.enter-your-choice7 {
+  position: absolute;
+  top: 124px;
+  left: 1423px;
+  font-size: var(--font-size-29xl);
+  font-weight: 100;
+}
+.search-icon8,
+.search-icon9 {
+  position: absolute;
+  top: 108px;
+  left: 1270px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.search-icon9 {
+  top: 1332px;
+  left: 1134px;
+  width: 71px;
+  height: 71px;
+}
+.search-in-orders {
+  position: absolute;
+  top: 1334px;
+  left: 1235px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+}
+.beauty10,
+.footwear10,
+.home9,
+.men9 {
+  position: absolute;
+  top: 461px;
+  left: 1103px;
+  cursor: pointer;
+}
+.beauty10,
+.footwear10,
+.home9 {
+  left: 1838px;
+}
+.footwear10,
+.home9 {
+  left: 2612px;
+}
+.home9 {
+  left: 2241px;
+}
+.sort-down-icon35 {
+  position: absolute;
+  top: 484px;
+  left: 1235px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon8,
+.sort-down-icon36,
+.sort-down-icon37,
+.sort-down-icon38,
+.sort-down-icon39 {
+  position: absolute;
+  top: 484px;
+  left: 2895px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon8,
+.sort-down-icon37,
+.sort-down-icon38,
+.sort-down-icon39 {
+  left: 2420px;
+}
+.heart-icon8,
+.sort-down-icon38,
+.sort-down-icon39 {
+  left: 2049px;
+}
+.heart-icon8,
+.sort-down-icon39 {
+  left: 1646px;
+}
+.heart-icon8 {
+  top: 51px;
+  left: 3409px;
+  width: 100px;
+  height: 100px;
+}
+.sign-in10,
+.women9 {
+  position: absolute;
+  cursor: pointer;
+}
+.sign-in10 {
+  top: 79px;
+  left: 3691px;
+  font-size: var(--font-size-29xl);
+}
+.women9 {
+  top: 461px;
+  left: 1423px;
+}
+.privacy-policy8,
+.return-policy7,
+.terms-condition6 {
+  position: absolute;
+  top: 4060px;
+  left: 134px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.privacy-policy8,
+.return-policy7 {
+  left: 816px;
+}
+.return-policy7 {
+  left: 1390px;
+}
+.market-square-icon8 {
+  position: absolute;
+  top: 51px;
+  left: 3550px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home10 {
+  font-weight: 200;
+}
+.home-profile-container {
+  position: absolute;
+  top: 650px;
+  left: 68px;
+  font-size: var(--font-size-29xl);
+}
+.desktop-9-item {
+  position: absolute;
+  top: 882px;
+  left: 140px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 292px;
+  height: 292px;
+}
+.hello-kirtan-mandaviya,
+.view-details {
+  position: absolute;
+  top: 951px;
+  left: 564px;
+}
+.view-details {
+  top: 1050px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+}
+.desktop-9-inner {
+  top: 1106.5px;
+  left: 562.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 279px;
+  height: 3px;
+}
+.desktop-9-inner,
+.my-orders,
+.w {
+  position: absolute;
+}
+.w {
+  top: 1927px;
+  left: 140px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-ingrid-darling);
+}
+.my-orders {
+  top: 1341px;
+  left: 336px;
+  font-weight: 300;
+}
+.account-settings,
+.my-wishlist,
+.saved-details {
+  position: absolute;
+  top: 1498px;
+  left: 333px;
+  font-weight: 200;
+}
+.account-settings,
+.saved-details {
+  top: 1655px;
+  left: 336px;
+}
+.account-settings {
+  top: 1791px;
+}
+.about-us11,
+.contact-us9,
+.store-locator3,
+.weststyleclub {
+  position: absolute;
+  top: 1927px;
+  left: 336px;
+  font-weight: 200;
+}
+.about-us11,
+.contact-us9,
+.store-locator3 {
+  top: 2136px;
+}
+.about-us11,
+.contact-us9 {
+  top: 2293px;
+  cursor: pointer;
+}
+.about-us11 {
+  top: 2502px;
+  left: 333px;
+}
+.privacy-policy9,
+.terms-of-use {
+  position: absolute;
+  top: 2659px;
+  left: 336px;
+  font-weight: 200;
+}
+.privacy-policy9 {
+  top: 2816px;
+}
+.desktop-9-child1 {
+  position: absolute;
+  top: 1306px;
+  left: 1000px;
+  width: 4px;
+  height: 1660px;
+  object-fit: contain;
+}
+.online-order {
+  position: absolute;
+  top: 951px;
+  left: 1859px;
+}
+.you-havent-placed {
+  position: absolute;
+  top: 1469px;
+  left: 1134px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+}
+.download-the-app1,
+.join-our-newsletter1,
+.shop2,
+.sites-stores1 {
+  position: absolute;
+  top: 3058px;
+  left: 333px;
+  font-weight: 300;
+  text-align: left;
+}
+.join-our-newsletter1,
+.shop2,
+.sites-stores1 {
+  left: 1407px;
+}
+.join-our-newsletter1,
+.sites-stores1 {
+  left: 2002px;
+}
+.join-our-newsletter1 {
+  left: 2919px;
+}
+.desktop-9-child2,
+.desktop-9-child3 {
+  position: absolute;
+  top: 3247px;
+  left: 338px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 697px;
+  height: 186px;
+}
+.desktop-9-child3 {
+  top: 3554px;
+}
+.app-store1,
+.get-it-on1 {
+  position: absolute;
+  top: 3636px;
+  left: 597px;
+  font-weight: 600;
+  text-align: left;
+}
+.get-it-on1 {
+  top: 3280px;
+  left: 543px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+}
+.download-on-the1,
+.google-play1 {
+  position: absolute;
+  top: 3324px;
+  left: 539px;
+  font-weight: 600;
+  text-align: left;
+}
+.download-on-the1 {
+  top: 3578px;
+  left: 563px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+}
+.about-us12,
+.contact-us10,
+.footwear11,
+.home11,
+.man2,
+.woman2 {
+  position: absolute;
+  top: 3238px;
+  left: 1439px;
+  font-weight: 200;
+  text-align: left;
+  cursor: pointer;
+}
+.about-us12,
+.contact-us10,
+.footwear11,
+.home11,
+.woman2 {
+  top: 3356px;
+}
+.about-us12,
+.contact-us10,
+.footwear11,
+.home11 {
+  top: 3607px;
+}
+.about-us12,
+.contact-us10,
+.footwear11 {
+  top: 3727px;
+}
+.about-us12,
+.contact-us10 {
+  top: 3238px;
+  left: 2015px;
+}
+.contact-us10 {
+  top: 3356px;
+  left: 2002px;
+}
+.get-the-latest1,
+.media-center2,
+.membership3,
+.sitemap1,
+.store-locator4 {
+  position: absolute;
+  top: 3466px;
+  left: 2002px;
+  font-weight: 200;
+  text-align: left;
+}
+.get-the-latest1,
+.media-center2,
+.membership3,
+.sitemap1 {
+  top: 3569px;
+}
+.get-the-latest1,
+.membership3,
+.sitemap1 {
+  top: 3793px;
+  left: 1999px;
+}
+.get-the-latest1,
+.membership3 {
+  top: 3675px;
+}
+.get-the-latest1 {
+  top: 3180px;
+  left: 2919px;
+  font-size: var(--font-size-29xl);
+}
+.desktop-9-child4 {
+  position: absolute;
+  top: 3465.5px;
+  left: 2841.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1027px;
+  height: 1px;
+}
+.email-id1 {
+  position: absolute;
+  top: 3365px;
+  left: 2919px;
+  text-align: left;
+}
+.desktop-9-child5 {
+  position: absolute;
+  top: 3571px;
+  left: 2871px;
+  background-color: var(--color-black);
+  width: 997px;
+  height: 169px;
+}
+.subscribe1 {
+  position: absolute;
+  top: 3607px;
+  left: 3100px;
+  font-size: var(--font-size-77xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: left;
+}
+.apple-logo-icon1 {
+  position: absolute;
+  top: 3566px;
+  left: 376px;
+  width: 148px;
+  height: 148px;
+  object-fit: cover;
+}
+.beauty11 {
+  position: absolute;
+  top: 3489px;
+  left: 1439px;
+  font-weight: 200;
+  cursor: pointer;
+}
+.account-icon8 {
+  position: absolute;
+  top: 49px;
+  left: 3268px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-9-child6,
+.desktop-9-child7 {
+  position: absolute;
+  top: 610.5px;
+  left: -1.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3959px;
+  height: 3px;
+}
+.desktop-9-child7 {
+  top: 1077.5px;
+  left: 1680.5px;
+  width: 791px;
+}
+.desktop-9-child10,
+.desktop-9-child11,
+.desktop-9-child12,
+.desktop-9-child8,
+.desktop-9-child9 {
+  position: absolute;
+  top: 1436.5px;
+  left: 1022.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2903px;
+  height: 3px;
+}
+.desktop-9-child10,
+.desktop-9-child11,
+.desktop-9-child12,
+.desktop-9-child9 {
+  top: 2070.5px;
+  left: -1.5px;
+  width: 1003px;
+}
+.desktop-9-child10,
+.desktop-9-child11,
+.desktop-9-child12 {
+  top: 2452.5px;
+}
+.desktop-9-child11,
+.desktop-9-child12 {
+  top: 2964.5px;
+  width: 3959px;
+}
+.desktop-9-child12 {
+  top: 3946.5px;
+}
+.account-icon9 {
+  position: absolute;
+  top: 904px;
+  left: 158px;
+  width: 248px;
+  height: 248px;
+  object-fit: cover;
+}
+.shopping-cart-icon {
+  position: absolute;
+  top: 1330px;
+  left: 132px;
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+.heart-icon9,
+.home-address-icon1,
+.info-icon,
+.settings-icon {
+  position: absolute;
+  top: 1505px;
+  left: 143px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.home-address-icon1,
+.info-icon,
+.settings-icon {
+  top: 1655px;
+}
+.home-address-icon1,
+.settings-icon {
+  top: 1791px;
+}
+.home-address-icon1 {
+  top: 2133px;
+  left: 150px;
+}
+.call-icon,
+.page-icon,
+.people-icon,
+.security-shield-icon,
+.twitter-icon8 {
+  position: absolute;
+  top: 2393px;
+  left: 158px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.page-icon,
+.people-icon,
+.security-shield-icon,
+.twitter-icon8 {
+  top: 2502px;
+}
+.page-icon,
+.security-shield-icon,
+.twitter-icon8 {
+  top: 2659px;
+}
+.security-shield-icon,
+.twitter-icon8 {
+  top: 2816px;
+}
+.twitter-icon8 {
+  top: 4068px;
+  left: 3640px;
+}
+.facebook-icon8,
+.google-play-icon1,
+.instagram-icon8,
+.youtube-icon8 {
+  position: absolute;
+  top: 4060px;
+  left: 3798px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon8,
+.google-play-icon1,
+.instagram-icon8 {
+  top: 4068px;
+  left: 3482px;
+}
+.google-play-icon1,
+.instagram-icon8 {
+  left: 3324px;
+}
+.google-play-icon1 {
+  top: 3280px;
+  left: 376px;
+  width: 148px;
+  height: 148px;
+}
+.desktop-9 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4210px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

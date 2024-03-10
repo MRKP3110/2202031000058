@@ -1,0 +1,555 @@
+.westside7 {
+  position: absolute;
+  top: 51px;
+  left: 38px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-jacques-francois-shadow);
+  cursor: pointer;
+}
+.desktop-8-child {
+  position: absolute;
+  top: 94px;
+  left: 1232px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1460px;
+  height: 128px;
+}
+.enter-your-choice5 {
+  position: absolute;
+  top: 124px;
+  left: 1423px;
+  font-weight: 100;
+}
+.search-icon5 {
+  position: absolute;
+  top: 108px;
+  left: 1270px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.beauty6,
+.footwear6,
+.home6,
+.men5 {
+  position: absolute;
+  top: 461px;
+  left: 1103px;
+  font-size: var(--font-size-45xl);
+  cursor: pointer;
+}
+.beauty6,
+.footwear6,
+.home6 {
+  left: 1838px;
+}
+.footwear6,
+.home6 {
+  left: 2612px;
+}
+.home6 {
+  left: 2241px;
+}
+.sort-down-icon25,
+.sort-down-icon26,
+.sort-down-icon27 {
+  position: absolute;
+  top: 484px;
+  left: 1235px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.sort-down-icon26,
+.sort-down-icon27 {
+  left: 2895px;
+}
+.sort-down-icon27 {
+  left: 2420px;
+}
+.heart-icon5,
+.market-square-icon5,
+.sort-down-icon28,
+.sort-down-icon29 {
+  position: absolute;
+  top: 484px;
+  left: 2049px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon5,
+.market-square-icon5,
+.sort-down-icon29 {
+  left: 1646px;
+}
+.heart-icon5,
+.market-square-icon5 {
+  top: 58px;
+  left: 3403px;
+  width: 100px;
+  height: 100px;
+}
+.market-square-icon5 {
+  left: 3556px;
+  cursor: pointer;
+}
+.sign-in7 {
+  top: 79px;
+  left: 3709px;
+}
+.sign-in7,
+.women5,
+.women6 {
+  position: absolute;
+  cursor: pointer;
+}
+.women5 {
+  top: 461px;
+  left: 1423px;
+  font-size: var(--font-size-45xl);
+}
+.women6 {
+  top: 4256px;
+  left: 336px;
+  font-weight: 300;
+}
+.desktop-8-item {
+  position: absolute;
+  top: 646px;
+  left: 0;
+  width: 3956px;
+  height: 603px;
+  object-fit: cover;
+}
+.help-center {
+  position: absolute;
+  top: 663px;
+  left: 1580px;
+  font-size: var(--font-size-77xl);
+  text-align: left;
+}
+.desktop-8-inner {
+  position: absolute;
+  top: 1189px;
+  left: 1040px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1807px;
+  height: 120px;
+}
+.what-are-you {
+  position: absolute;
+  top: 1220px;
+  left: 1200px;
+  font-weight: 300;
+  text-align: left;
+}
+.search-icon6 {
+  position: absolute;
+  top: 1199px;
+  left: 1069px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-8-child1 {
+  position: absolute;
+  top: 1625px;
+  left: 440px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 960px;
+  height: 400px;
+}
+.order-related {
+  position: absolute;
+  top: 1848px;
+  left: 699px;
+  font-size: var(--font-size-45xl);
+}
+.desktop-8-child2,
+.desktop-8-child3,
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6 {
+  position: absolute;
+  top: 2112px;
+  left: 2528px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 960px;
+  height: 400px;
+}
+.desktop-8-child3,
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6 {
+  left: 1484px;
+}
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6 {
+  left: 440px;
+}
+.desktop-8-child5,
+.desktop-8-child6 {
+  top: 1625px;
+  left: 2528px;
+}
+.desktop-8-child6 {
+  left: 1484px;
+}
+.return-purchase-icon {
+  position: absolute;
+  top: 2126px;
+  left: 1871px;
+  width: 186px;
+  height: 186px;
+  object-fit: cover;
+}
+.membership1,
+.return-refunds,
+.shipping1,
+.store-related {
+  position: absolute;
+  top: 1848px;
+  left: 1774px;
+  font-size: var(--font-size-45xl);
+}
+.membership1,
+.return-refunds,
+.shipping1 {
+  top: 2312px;
+  left: 776px;
+}
+.membership1,
+.return-refunds {
+  left: 1715px;
+}
+.membership1 {
+  left: 2819px;
+}
+.promoted-articles,
+.trending-topics {
+  position: absolute;
+  top: 2599px;
+  left: 1592px;
+  font-size: var(--font-size-77xl);
+  font-weight: 600;
+}
+.promoted-articles {
+  top: 3213px;
+  left: 425px;
+  font-weight: 500;
+}
+.store-locator1 {
+  position: absolute;
+  top: 2981px;
+  left: 779px;
+  font-size: var(--font-size-45xl);
+}
+.can-i-order {
+  position: absolute;
+  top: 3416px;
+  left: 425px;
+}
+.can-i-cancel,
+.can-i-exchange {
+  position: absolute;
+  top: 3496px;
+  left: 425px;
+}
+.can-i-cancel {
+  top: 3576px;
+}
+.our-products,
+.recent-activity {
+  position: absolute;
+  top: 2981px;
+  left: 2819px;
+  font-size: var(--font-size-45xl);
+}
+.recent-activity {
+  top: 3213px;
+  left: 2610px;
+  font-size: var(--font-size-77xl);
+  font-weight: 500;
+}
+.for-cod-can,
+.when-will-my {
+  position: absolute;
+  top: 3416px;
+  left: 2610px;
+}
+.when-will-my {
+  top: 3496px;
+}
+.can-i-add,
+.do-i-need,
+.shop1,
+.where-to-check {
+  position: absolute;
+  top: 3576px;
+  left: 2610px;
+}
+.can-i-add,
+.do-i-need,
+.shop1 {
+  top: 3644px;
+}
+.can-i-add,
+.shop1 {
+  top: 3724px;
+}
+.shop1 {
+  top: 4043px;
+  left: 336px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.sites-and-stories {
+  left: 1021px;
+  font-weight: 500;
+}
+.email,
+.policies,
+.sites-and-stories {
+  position: absolute;
+  top: 4043px;
+  font-size: var(--font-size-45xl);
+}
+.policies {
+  left: 2148px;
+  font-weight: 500;
+}
+.email {
+  left: 2942px;
+}
+.about-us9,
+.beauty7,
+.footwear7,
+.home7,
+.man1 {
+  position: absolute;
+  top: 4157px;
+  left: 336px;
+  font-weight: 300;
+  cursor: pointer;
+}
+.about-us9,
+.beauty7,
+.footwear7,
+.home7 {
+  top: 4355px;
+}
+.about-us9,
+.footwear7,
+.home7 {
+  top: 4553px;
+}
+.about-us9,
+.home7 {
+  top: 4454px;
+}
+.about-us9 {
+  top: 4157px;
+  left: 1021px;
+}
+.contact-us7,
+.media-center1,
+.membership2,
+.store-locator2 {
+  position: absolute;
+  top: 4252px;
+  left: 1021px;
+  font-weight: 300;
+}
+.media-center1,
+.membership2,
+.store-locator2 {
+  top: 4355px;
+}
+.media-center1,
+.membership2 {
+  top: 4454px;
+}
+.membership2 {
+  top: 4553px;
+}
+.privacy-policy6,
+.terms-conditions {
+  position: absolute;
+  top: 4157px;
+  left: 2149px;
+  font-weight: 300;
+}
+.privacy-policy6 {
+  top: 4256px;
+  left: 2148px;
+}
+.return-policy5,
+.telephone,
+.westsidegmailcom {
+  position: absolute;
+  top: 4355px;
+  left: 2154px;
+  font-weight: 300;
+}
+.telephone,
+.westsidegmailcom {
+  top: 4186px;
+  left: 2942px;
+}
+.telephone {
+  top: 4331px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.for-onlinewebsite-related {
+  position: absolute;
+  top: 4449px;
+  left: 2872px;
+  font-weight: 300;
+  display: inline-block;
+  width: 748px;
+}
+.copyright-2024-westside {
+  position: absolute;
+  top: 4846px;
+  left: 67px;
+  font-weight: 300;
+}
+.account-icon5,
+.dress-front-view {
+  position: absolute;
+  top: 58px;
+  left: 3250px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.dress-front-view {
+  top: 1640px;
+  left: 832px;
+  width: 186px;
+  height: 186px;
+}
+.payments {
+  position: absolute;
+  top: 1848px;
+  left: 2898px;
+  font-size: var(--font-size-45xl);
+}
+.cash-and-credit-card,
+.ko-fi-icon,
+.online-store-icon {
+  position: absolute;
+  top: 1666px;
+  left: 1907px;
+  width: 165px;
+  height: 165px;
+  object-fit: cover;
+}
+.cash-and-credit-card,
+.ko-fi-icon {
+  top: 1671px;
+  left: 2960px;
+  width: 155px;
+  height: 155px;
+}
+.ko-fi-icon {
+  top: 2164px;
+  left: 2934px;
+  width: 148px;
+  height: 148px;
+}
+.camera-icon,
+.free-shipping-icon1,
+.home-address-icon {
+  position: absolute;
+  top: 2137px;
+  left: 865px;
+  width: 153px;
+  height: 153px;
+  object-fit: cover;
+}
+.camera-icon,
+.home-address-icon {
+  top: 2727px;
+  left: 2877px;
+  width: 244px;
+  height: 244px;
+}
+.home-address-icon {
+  top: 2741px;
+  left: 865px;
+}
+.desktop-8-child7 {
+  position: absolute;
+  top: 3895px;
+  left: 0;
+  width: 3956px;
+  height: 3px;
+  object-fit: contain;
+}
+.any-other-queries {
+  position: absolute;
+  top: 4606px;
+  left: 2872px;
+  font-weight: 300;
+}
+.desktop-8-child8 {
+  position: absolute;
+  top: 4754px;
+  left: 0;
+  width: 3956px;
+  height: 3px;
+  object-fit: contain;
+}
+.facebook-icon6,
+.instagram-icon6,
+.twitter-icon6,
+.youtube-icon6 {
+  position: absolute;
+  top: 4825px;
+  left: 3654px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon6,
+.instagram-icon6,
+.youtube-icon6 {
+  top: 4823px;
+  left: 3810px;
+}
+.facebook-icon6,
+.instagram-icon6 {
+  left: 3498px;
+}
+.instagram-icon6 {
+  top: 4842px;
+  left: 3342px;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4961px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

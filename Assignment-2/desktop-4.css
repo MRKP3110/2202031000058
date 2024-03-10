@@ -1,0 +1,415 @@
+.westside2 {
+  position: absolute;
+  top: 47px;
+  left: 66px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-jacques-francois-shadow);
+  cursor: pointer;
+}
+.desktop-4-child {
+  position: absolute;
+  top: 114px;
+  left: 1263px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1460px;
+  height: 128px;
+}
+.enter-your-choice1 {
+  position: absolute;
+  top: 149px;
+  left: 1450px;
+  font-size: var(--font-size-29xl);
+  font-weight: 100;
+}
+.search-icon1 {
+  position: absolute;
+  top: 133px;
+  left: 1302px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.beauty1,
+.footwear1,
+.home1,
+.men1 {
+  position: absolute;
+  top: 457px;
+  left: 1131px;
+  cursor: pointer;
+}
+.beauty1,
+.footwear1,
+.home1 {
+  left: 1866px;
+}
+.footwear1,
+.home1 {
+  left: 2640px;
+}
+.home1 {
+  left: 2269px;
+}
+.sort-down-icon5 {
+  position: absolute;
+  top: 480px;
+  left: 1263px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon1,
+.sort-down-icon6,
+.sort-down-icon7,
+.sort-down-icon8,
+.sort-down-icon9 {
+  position: absolute;
+  top: 480px;
+  left: 2923px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon1,
+.sort-down-icon7,
+.sort-down-icon8,
+.sort-down-icon9 {
+  left: 2448px;
+}
+.heart-icon1,
+.sort-down-icon8,
+.sort-down-icon9 {
+  left: 2077px;
+}
+.heart-icon1,
+.sort-down-icon9 {
+  left: 1674px;
+}
+.heart-icon1 {
+  top: 61px;
+  left: 3431px;
+  width: 100px;
+  height: 100px;
+}
+.market-square-icon1,
+.sign-in3 {
+  position: absolute;
+  cursor: pointer;
+}
+.market-square-icon1 {
+  top: 54px;
+  left: 3584px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.sign-in3 {
+  top: 75px;
+  left: 3737px;
+  font-size: var(--font-size-29xl);
+}
+.women1 {
+  position: absolute;
+  top: 457px;
+  left: 1451px;
+}
+.about-us3,
+.contact-us2,
+.privacy-policy2,
+.return-policy1,
+.terms-condition1 {
+  position: absolute;
+  top: 3903px;
+  left: 122px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.about-us3,
+.contact-us2,
+.privacy-policy2,
+.return-policy1 {
+  left: 845px;
+}
+.about-us3,
+.contact-us2,
+.return-policy1 {
+  left: 1460px;
+}
+.about-us3,
+.contact-us2 {
+  top: 4039px;
+  left: 845px;
+  cursor: pointer;
+}
+.about-us3 {
+  left: 122px;
+}
+.desktop-4-item {
+  position: absolute;
+  top: 218px;
+  left: 66px;
+  border-radius: 50%;
+  width: 384px;
+  height: 352px;
+  object-fit: cover;
+}
+.desktop-4-child1,
+.desktop-4-child2,
+.desktop-4-child3,
+.desktop-4-inner {
+  position: absolute;
+  top: 776px;
+  left: 297px;
+  width: 622px;
+  height: 793px;
+  object-fit: cover;
+}
+.desktop-4-child1,
+.desktop-4-child2,
+.desktop-4-child3 {
+  top: 2184px;
+  left: 2997px;
+}
+.desktop-4-child2,
+.desktop-4-child3 {
+  left: 2097px;
+}
+.desktop-4-child3 {
+  left: 1197px;
+}
+.desktop-4-child4,
+.desktop-4-child5,
+.desktop-4-child6,
+.desktop-4-child7 {
+  position: absolute;
+  top: 2184px;
+  left: 291px;
+  width: 622px;
+  height: 793px;
+  object-fit: cover;
+}
+.desktop-4-child5,
+.desktop-4-child6,
+.desktop-4-child7 {
+  top: 776px;
+  left: 2997px;
+}
+.desktop-4-child6,
+.desktop-4-child7 {
+  left: 2097px;
+}
+.desktop-4-child7 {
+  left: 1197px;
+}
+.lov-chocolate-brown {
+  position: absolute;
+  top: 1615px;
+  left: 297px;
+  display: inline-block;
+  width: 610px;
+  height: 47px;
+}
+.brown-xs,
+.div8 {
+  position: absolute;
+}
+.brown-xs {
+  top: 1845px;
+  left: 308px;
+  font-weight: 200;
+}
+.div8 {
+  top: 1948px;
+  left: 303px;
+}
+.studiofit-olive-hoodie {
+  position: absolute;
+  top: 1639px;
+  left: 1205px;
+  display: inline-block;
+  width: 614px;
+}
+.div9,
+.green-xs {
+  position: absolute;
+}
+.green-xs {
+  top: 1845px;
+  left: 1302px;
+  font-weight: 200;
+}
+.div9 {
+  top: 1948px;
+  left: 1317px;
+}
+.wardrobe-black-one {
+  position: absolute;
+  top: 1638px;
+  left: 2122px;
+  display: inline-block;
+  width: 597px;
+}
+.black-xs1 {
+  position: absolute;
+  top: 1845px;
+  left: 2153px;
+  font-weight: 200;
+}
+.div10 {
+  position: absolute;
+  top: 1948px;
+  left: 2164px;
+}
+.nuon-multicolor-abstract {
+  position: absolute;
+  top: 1662px;
+  left: 2937px;
+  display: inline-block;
+  width: 699px;
+}
+.div11,
+.nuon1,
+.nuon2 {
+  position: absolute;
+  top: 1948px;
+  left: 3041px;
+}
+.nuon1,
+.nuon2 {
+  top: 1592px;
+  left: 3017px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.nuon2 {
+  top: 3000px;
+  left: 291px;
+}
+.nuon-solid-light {
+  position: absolute;
+  top: 3080px;
+  left: 278px;
+  display: inline-block;
+  width: 549px;
+}
+.div12,
+.wardrobe {
+  position: absolute;
+  top: 3337px;
+  left: 302px;
+}
+.wardrobe {
+  top: 3000px;
+  left: 1205px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.wardrobe-black-self-patterned {
+  position: absolute;
+  top: 3080px;
+  left: 1120px;
+  display: inline-block;
+  width: 629px;
+}
+.div13,
+.studiofit {
+  position: absolute;
+  top: 3337px;
+  left: 1205px;
+}
+.studiofit {
+  top: 3000px;
+  left: 2125px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.studiofit-olive-fluted {
+  position: absolute;
+  top: 3119px;
+  left: 2097px;
+  display: inline-block;
+  width: 492px;
+}
+.div14,
+.nuon3 {
+  position: absolute;
+  top: 3337px;
+  left: 2116px;
+}
+.nuon3 {
+  top: 3000px;
+  left: 3017px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.nuon-beige-denim {
+  position: absolute;
+  top: 3119px;
+  left: 3019px;
+  display: inline-block;
+  width: 600px;
+}
+.account-icon1,
+.div15 {
+  position: absolute;
+  top: 3337px;
+  left: 3045px;
+}
+.account-icon1 {
+  top: 61px;
+  left: 3278px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-4-child8,
+.line-div {
+  position: absolute;
+  top: 3717.5px;
+  left: -2.5px;
+  border-top: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3961px;
+  height: 5px;
+}
+.desktop-4-child8 {
+  top: 675.5px;
+}
+.facebook-icon2,
+.instagram-icon2,
+.twitter-icon2,
+.youtube-icon2 {
+  position: absolute;
+  top: 3911px;
+  left: 3498px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.instagram-icon2,
+.twitter-icon2,
+.youtube-icon2 {
+  left: 3782px;
+}
+.instagram-icon2,
+.twitter-icon2 {
+  left: 3354px;
+}
+.twitter-icon2 {
+  left: 3642px;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4223px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

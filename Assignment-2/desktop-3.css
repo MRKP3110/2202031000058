@@ -1,0 +1,410 @@
+.westside1 {
+  position: absolute;
+  top: 38px;
+  left: 54px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-jacques-francois-shadow);
+  cursor: pointer;
+}
+.desktop-3-child {
+  position: absolute;
+  top: 72px;
+  left: 1248px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1460px;
+  height: 128px;
+}
+.enter-your-choice {
+  position: absolute;
+  top: 102px;
+  left: 1439px;
+  font-size: var(--font-size-29xl);
+  font-weight: 100;
+}
+.desktop-3-item,
+.search-icon {
+  position: absolute;
+  top: 86px;
+  left: 1286px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-3-item {
+  top: 187px;
+  left: 61px;
+  border-radius: 50%;
+  width: 388.9px;
+  height: 357.3px;
+  object-fit: contain;
+}
+.men {
+  position: absolute;
+  top: 439px;
+  left: 1119px;
+}
+.beauty,
+.footwear,
+.home,
+.women {
+  position: absolute;
+  top: 439px;
+  left: 1439px;
+  cursor: pointer;
+}
+.beauty,
+.footwear,
+.home {
+  left: 1854px;
+}
+.footwear,
+.home {
+  left: 2628px;
+}
+.home {
+  left: 2257px;
+}
+.sort-down-icon {
+  position: absolute;
+  top: 462px;
+  left: 1251px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon,
+.sort-down-icon1,
+.sort-down-icon2,
+.sort-down-icon3,
+.sort-down-icon4 {
+  position: absolute;
+  top: 462px;
+  left: 2911px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon,
+.sort-down-icon2,
+.sort-down-icon3,
+.sort-down-icon4 {
+  left: 2436px;
+}
+.heart-icon,
+.sort-down-icon3,
+.sort-down-icon4 {
+  left: 2065px;
+}
+.heart-icon,
+.sort-down-icon4 {
+  left: 1662px;
+}
+.heart-icon {
+  top: 36px;
+  left: 3419px;
+  width: 100px;
+  height: 100px;
+}
+.market-square-icon,
+.sign-in2 {
+  position: absolute;
+  cursor: pointer;
+}
+.market-square-icon {
+  top: 36px;
+  left: 3572px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.sign-in2 {
+  top: 57px;
+  left: 3725px;
+  font-size: var(--font-size-29xl);
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.desktop-3-inner,
+.rectangle-icon {
+  position: absolute;
+  top: 795px;
+  left: 513px;
+  width: 622px;
+  height: 793px;
+  object-fit: cover;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.rectangle-icon {
+  top: 2214px;
+  left: 498px;
+}
+.desktop-3-child1,
+.desktop-3-child2 {
+  left: 2097px;
+}
+.desktop-3-child2 {
+  left: 1305px;
+}
+.desktop-3-child3,
+.desktop-3-child4,
+.desktop-3-child5,
+.desktop-3-child6 {
+  position: absolute;
+  top: 2214px;
+  left: 2911px;
+  width: 622px;
+  height: 793px;
+  object-fit: cover;
+}
+.desktop-3-child4,
+.desktop-3-child5,
+.desktop-3-child6 {
+  top: 795px;
+  left: 1299px;
+}
+.desktop-3-child5,
+.desktop-3-child6 {
+  left: 2097px;
+}
+.desktop-3-child6 {
+  top: 788px;
+  left: 2911px;
+}
+.nuon {
+  position: absolute;
+  top: 1604px;
+  left: 500px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.nuon-sage-self- {
+  position: absolute;
+  top: 1709px;
+  left: 431px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 641px;
+}
+.div {
+  position: absolute;
+  top: 1986px;
+  left: 513px;
+}
+.nuon-beige-striped {
+  margin: 0;
+}
+.nuon-beige-striped-container {
+  position: absolute;
+  top: 1660px;
+  left: 2893px;
+  display: inline-block;
+  width: 622px;
+}
+.beige-xs,
+.div1 {
+  position: absolute;
+  top: 1986px;
+  left: 2911px;
+}
+.beige-xs {
+  top: 1871px;
+  left: 2893px;
+}
+.studiofit-off-white {
+  position: absolute;
+  top: 1650px;
+  left: 2066px;
+  display: inline-block;
+  width: 622px;
+}
+.div2,
+.white-xs {
+  position: absolute;
+  top: 1871px;
+  left: 2092px;
+}
+.div2 {
+  top: 1986px;
+}
+.wes-casuals-solid {
+  position: absolute;
+  top: 1660px;
+  left: 1275px;
+  display: inline-block;
+  width: 622px;
+}
+.blue-30,
+.div3 {
+  position: absolute;
+  top: 1871px;
+  left: 1305px;
+}
+.div3 {
+  top: 1986px;
+  left: 1303px;
+}
+.nuon-solid-olive {
+  position: absolute;
+  top: 3076px;
+  left: 2857px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 622px;
+}
+.div4,
+.green-28 {
+  position: absolute;
+  top: 3330px;
+  left: 2911px;
+}
+.div4 {
+  top: 3453px;
+}
+.nuon-black-denim-container,
+.wes-formals-blue {
+  position: absolute;
+  top: 3076px;
+  left: 1314px;
+  display: inline-block;
+  width: 613px;
+}
+.wes-formals-blue {
+  left: 2092px;
+  width: 627px;
+}
+.black-xs {
+  position: absolute;
+  top: 3330px;
+  left: 1305px;
+}
+.blue-38,
+.div5,
+.div6 {
+  position: absolute;
+  top: 3453px;
+  left: 1308px;
+}
+.blue-38,
+.div6 {
+  top: 3330px;
+  left: 2114px;
+}
+.div6 {
+  top: 3453px;
+  left: 2113px;
+}
+.wes-formals-navy-container {
+  position: absolute;
+  top: 3076px;
+  left: 477px;
+  display: inline-block;
+  width: 601px;
+}
+.div7,
+.navy-30,
+.terms-condition {
+  position: absolute;
+  top: 3330px;
+  left: 513px;
+}
+.div7,
+.terms-condition {
+  top: 3453px;
+}
+.terms-condition {
+  top: 3928px;
+  left: 161px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.privacy-policy1 {
+  position: absolute;
+  top: 3928px;
+  left: 884px;
+}
+.contact-us1,
+.privacy-policy1,
+.return-policy {
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.return-policy {
+  position: absolute;
+  top: 3928px;
+  left: 1499px;
+}
+.contact-us1 {
+  top: 4064px;
+  left: 884px;
+}
+.about-us2,
+.account-icon,
+.contact-us1 {
+  position: absolute;
+  cursor: pointer;
+}
+.about-us2 {
+  top: 4064px;
+  left: 160px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.account-icon {
+  top: 36px;
+  left: 3266px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-3-child7,
+.line-icon {
+  position: absolute;
+  top: 651px;
+  left: 0;
+  width: 3956px;
+  height: 3px;
+  object-fit: contain;
+}
+.desktop-3-child7 {
+  top: 3728px;
+}
+.facebook-icon1,
+.instagram-icon1,
+.twitter-icon1,
+.youtube-icon1 {
+  position: absolute;
+  top: 3928px;
+  left: 3631px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon1,
+.instagram-icon1,
+.youtube-icon1 {
+  top: 3924px;
+  left: 3782px;
+}
+.facebook-icon1,
+.instagram-icon1 {
+  top: 3928px;
+  left: 3483px;
+}
+.instagram-icon1 {
+  left: 3335px;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4223px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

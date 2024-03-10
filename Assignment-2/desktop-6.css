@@ -1,0 +1,489 @@
+.westside4 {
+  position: absolute;
+  top: 47px;
+  left: 86px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-jacques-francois-shadow);
+  text-align: center;
+  cursor: pointer;
+}
+.desktop-6-child {
+  position: absolute;
+  top: 90px;
+  left: 1280px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1460px;
+  height: 128px;
+}
+.enter-your-choice3 {
+  position: absolute;
+  top: 120px;
+  left: 1471px;
+  font-size: var(--font-size-29xl);
+  font-weight: 100;
+  text-align: center;
+}
+.search-icon3 {
+  position: absolute;
+  top: 104px;
+  left: 1318px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.beauty3,
+.men3 {
+  top: 457px;
+  text-align: center;
+}
+.men3 {
+  position: absolute;
+  left: 1151px;
+  cursor: pointer;
+}
+.beauty3 {
+  left: 1886px;
+}
+.beauty3,
+.beauty4,
+.footwear3,
+.home3 {
+  position: absolute;
+  cursor: pointer;
+}
+.beauty4 {
+  top: 3175px;
+  left: 1448px;
+  font-weight: 200;
+}
+.footwear3,
+.home3 {
+  top: 457px;
+  left: 2660px;
+  text-align: center;
+}
+.home3 {
+  left: 2289px;
+}
+.sort-down-icon15,
+.sort-down-icon16,
+.sort-down-icon17 {
+  position: absolute;
+  top: 480px;
+  left: 1283px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.sort-down-icon16,
+.sort-down-icon17 {
+  left: 2943px;
+}
+.sort-down-icon17 {
+  left: 2468px;
+}
+.heart-icon3,
+.market-square-icon3,
+.sort-down-icon18,
+.sort-down-icon19 {
+  position: absolute;
+  top: 480px;
+  left: 2097px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon3,
+.market-square-icon3,
+.sort-down-icon19 {
+  left: 1694px;
+}
+.heart-icon3,
+.market-square-icon3 {
+  top: 54px;
+  left: 3451px;
+  width: 100px;
+  height: 100px;
+}
+.market-square-icon3 {
+  left: 3604px;
+  cursor: pointer;
+}
+.sign-in5,
+.women3 {
+  position: absolute;
+  text-align: center;
+  cursor: pointer;
+}
+.sign-in5 {
+  top: 75px;
+  left: 3757px;
+  font-size: var(--font-size-29xl);
+}
+.women3 {
+  top: 457px;
+  left: 1471px;
+}
+.about-us5,
+.contact-us4,
+.privacy-policy4,
+.return-policy3,
+.terms-condition3 {
+  position: absolute;
+  top: 3903px;
+  left: 142px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+  text-align: center;
+}
+.about-us5,
+.contact-us4,
+.privacy-policy4,
+.return-policy3 {
+  left: 865px;
+}
+.about-us5,
+.contact-us4,
+.return-policy3 {
+  left: 1480px;
+}
+.about-us5,
+.contact-us4 {
+  top: 4066px;
+  left: 865px;
+}
+.contact-us4 {
+  left: 142px;
+  cursor: pointer;
+}
+.desktop-6-child1,
+.desktop-6-inner,
+.desktop-6-item {
+  position: absolute;
+  top: 638px;
+  left: 0;
+  width: 3956px;
+  height: 3px;
+  object-fit: contain;
+}
+.desktop-6-child1,
+.desktop-6-inner {
+  top: 3795px;
+  left: 20px;
+}
+.desktop-6-child1 {
+  top: 2620px;
+  left: 0;
+}
+.about-us6 {
+  position: absolute;
+  top: 733px;
+  left: 86px;
+  font-size: var(--font-size-77xl);
+  font-weight: 600;
+  text-align: center;
+}
+.chains-of-retail {
+  margin: 0;
+}
+.established-in-1998-container,
+.our-vision-is-container {
+  position: absolute;
+  top: 941px;
+  left: 161px;
+  font-weight: 600;
+}
+.our-vision-is-container {
+  top: 1135px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.about-our-brands {
+  position: absolute;
+  top: 1291px;
+  left: 86px;
+  font-weight: 600;
+}
+.our-lead-fashion {
+  font-weight: 200;
+}
+.accessories-and-home {
+  margin: 0;
+  font-weight: 200;
+  white-space: pre-wrap;
+}
+.westside-our-lead-fashion-container {
+  position: absolute;
+  top: 1408px;
+  left: 162px;
+  font-size: var(--font-size-29xl);
+}
+.zudio {
+  font-family: var(--font-inter);
+}
+.zudio-aggressively-popping-al-container {
+  position: absolute;
+  top: 1564px;
+  left: 162px;
+  font-size: var(--font-size-29xl);
+}
+.misbu-trendy-playful-bold-upb,
+.star-bazaar-trent-ventured-container {
+  position: absolute;
+  top: 1720px;
+  left: 161px;
+  font-size: var(--font-size-29xl);
+}
+.star-bazaar-trent-ventured-container {
+  top: 1818px;
+  left: 162px;
+}
+.about-westside {
+  position: absolute;
+  top: 1996px;
+  left: 86px;
+  font-weight: 600;
+  text-align: center;
+}
+.our-vision-is1 {
+  top: 2112px;
+  text-align: center;
+}
+.our-customer-promise,
+.our-vision-is1,
+.we-are-confident {
+  position: absolute;
+  left: 172px;
+  font-size: var(--font-size-29xl);
+  font-weight: 200;
+}
+.our-customer-promise {
+  top: 2210px;
+  display: inline-block;
+  width: 3705px;
+}
+.we-are-confident {
+  top: 2424px;
+}
+.download-the-app,
+.join-our-newsletter,
+.shop,
+.sites-stores {
+  position: absolute;
+  top: 2744px;
+  left: 342px;
+  font-weight: 300;
+}
+.join-our-newsletter,
+.shop,
+.sites-stores {
+  left: 1416px;
+}
+.join-our-newsletter,
+.sites-stores {
+  left: 2011px;
+}
+.join-our-newsletter {
+  left: 2928px;
+}
+.desktop-6-child2,
+.desktop-6-child3 {
+  position: absolute;
+  top: 2933px;
+  left: 347px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 697px;
+  height: 186px;
+}
+.desktop-6-child3 {
+  top: 3240px;
+}
+.app-store,
+.get-it-on {
+  position: absolute;
+  top: 3322px;
+  left: 606px;
+  font-weight: 600;
+}
+.get-it-on {
+  top: 2966px;
+  left: 552px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+}
+.download-on-the,
+.google-play {
+  position: absolute;
+  top: 3010px;
+  left: 548px;
+  font-weight: 600;
+}
+.download-on-the {
+  top: 3264px;
+  left: 572px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+}
+.man {
+  position: absolute;
+  top: 2924px;
+  font-weight: 200;
+}
+.home4,
+.man,
+.woman1 {
+  left: 1448px;
+  cursor: pointer;
+}
+.woman1 {
+  position: absolute;
+  top: 3042px;
+  font-weight: 200;
+}
+.home4 {
+  top: 3293px;
+}
+.about-us7,
+.footwear4,
+.home4 {
+  position: absolute;
+  font-weight: 200;
+}
+.footwear4 {
+  top: 3413px;
+  left: 1448px;
+  cursor: pointer;
+}
+.about-us7 {
+  top: 2924px;
+  left: 2024px;
+}
+.contact-us5,
+.media-center,
+.store-locator {
+  position: absolute;
+  left: 2011px;
+  font-weight: 200;
+}
+.contact-us5 {
+  top: 3042px;
+  cursor: pointer;
+}
+.media-center,
+.store-locator {
+  top: 3152px;
+}
+.media-center {
+  top: 3255px;
+}
+.get-the-latest,
+.membership,
+.sitemap {
+  position: absolute;
+  top: 3479px;
+  left: 2008px;
+  font-weight: 200;
+}
+.get-the-latest,
+.membership {
+  top: 3361px;
+}
+.get-the-latest {
+  top: 2866px;
+  left: 2928px;
+  font-size: var(--font-size-29xl);
+}
+.desktop-6-child4 {
+  position: absolute;
+  top: 3151.5px;
+  left: 2850.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1027px;
+  height: 1px;
+}
+.email-id {
+  position: absolute;
+  top: 3051px;
+  left: 2928px;
+}
+.desktop-6-child5 {
+  position: absolute;
+  top: 3257px;
+  left: 2880px;
+  background-color: var(--color-black);
+  width: 997px;
+  height: 169px;
+}
+.subscribe {
+  position: absolute;
+  top: 3293px;
+  left: 3109px;
+  font-size: var(--font-size-77xl);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.account-icon3 {
+  position: absolute;
+  top: 54px;
+  left: 3298px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.facebook-icon4,
+.instagram-icon4,
+.twitter-icon4,
+.youtube-icon4 {
+  position: absolute;
+  top: 3949px;
+  left: 3669px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon4,
+.instagram-icon4,
+.youtube-icon4 {
+  top: 3966px;
+  left: 3399px;
+}
+.facebook-icon4,
+.youtube-icon4 {
+  top: 3961px;
+  left: 3534px;
+}
+.youtube-icon4 {
+  top: 3949px;
+  left: 3804px;
+}
+.apple-logo-icon,
+.google-play-icon {
+  position: absolute;
+  top: 2942px;
+  left: 384px;
+  width: 148px;
+  height: 148px;
+  object-fit: cover;
+}
+.apple-logo-icon {
+  top: 3264px;
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4223px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

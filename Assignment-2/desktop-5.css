@@ -1,0 +1,371 @@
+.westside3 {
+  position: absolute;
+  top: 47px;
+  left: 66px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-jacques-francois-shadow);
+  cursor: pointer;
+}
+.desktop-5-child {
+  position: absolute;
+  top: 90px;
+  left: 1260px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1460px;
+  height: 128px;
+}
+.enter-your-choice2 {
+  position: absolute;
+  top: 120px;
+  left: 1451px;
+  font-weight: 100;
+}
+.search-icon2 {
+  position: absolute;
+  top: 104px;
+  left: 1298px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.beauty2,
+.footwear2,
+.home2,
+.men2 {
+  position: absolute;
+  top: 457px;
+  font-size: var(--font-size-45xl);
+}
+.men2 {
+  left: 1131px;
+  cursor: pointer;
+}
+.beauty2,
+.footwear2,
+.home2 {
+  left: 1866px;
+}
+.footwear2,
+.home2 {
+  left: 2640px;
+}
+.home2 {
+  left: 2269px;
+  cursor: pointer;
+}
+.sort-down-icon10,
+.sort-down-icon11,
+.sort-down-icon12 {
+  position: absolute;
+  top: 480px;
+  left: 1263px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.sort-down-icon11,
+.sort-down-icon12 {
+  left: 2923px;
+}
+.sort-down-icon12 {
+  left: 2448px;
+}
+.heart-icon2,
+.market-square-icon2,
+.sort-down-icon13,
+.sort-down-icon14 {
+  position: absolute;
+  top: 480px;
+  left: 2077px;
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+}
+.heart-icon2,
+.market-square-icon2,
+.sort-down-icon14 {
+  left: 1674px;
+}
+.heart-icon2,
+.market-square-icon2 {
+  top: 54px;
+  left: 3431px;
+  width: 100px;
+  height: 100px;
+}
+.market-square-icon2 {
+  left: 3584px;
+  cursor: pointer;
+}
+.sign-in4,
+.women2 {
+  position: absolute;
+  top: 75px;
+  left: 3737px;
+  cursor: pointer;
+}
+.women2 {
+  top: 457px;
+  left: 1451px;
+  font-size: var(--font-size-45xl);
+}
+.terms-condition2 {
+  position: absolute;
+  top: 3903px;
+  left: 122px;
+  font-weight: 200;
+}
+.about-us4,
+.contact-us3,
+.privacy-policy3,
+.return-policy2 {
+  position: absolute;
+  top: 3903px;
+  left: 845px;
+  font-weight: 200;
+}
+.about-us4,
+.contact-us3,
+.return-policy2 {
+  left: 1460px;
+}
+.about-us4,
+.contact-us3 {
+  top: 4066px;
+  left: 845px;
+  cursor: pointer;
+}
+.about-us4 {
+  left: 122px;
+}
+.desktop-5-inner,
+.desktop-5-item {
+  position: absolute;
+  top: 632px;
+  left: 0;
+  width: 3956px;
+  height: 3px;
+  object-fit: contain;
+}
+.desktop-5-inner {
+  top: 3795px;
+}
+.trending-of {
+  margin: 0;
+}
+.span {
+  white-space: pre-wrap;
+}
+.nowadays1 {
+  color: var(--color-red);
+}
+.trending-of-nowadays-container {
+  position: absolute;
+  top: 733px;
+  left: -528px;
+  font-size: var(--font-size-109xl);
+  font-weight: 800;
+}
+.desktop-5-child1,
+.desktop-5-child2,
+.desktop-5-child3,
+.desktop-5-child4 {
+  position: absolute;
+  top: 1221px;
+  left: 236px;
+  border-radius: var(--br-31xl);
+  width: 1328px;
+  height: 1288px;
+  object-fit: cover;
+}
+.desktop-5-child2,
+.desktop-5-child3,
+.desktop-5-child4 {
+  left: 1701px;
+  width: 992px;
+  height: 700px;
+}
+.desktop-5-child3,
+.desktop-5-child4 {
+  top: 1997px;
+  left: 1530px;
+  width: 1202px;
+  height: 512px;
+}
+.desktop-5-child4 {
+  top: 1221px;
+  left: 2830px;
+  width: 776px;
+  height: 1288px;
+}
+.desktop-5-child5 {
+  position: absolute;
+  top: 3185px;
+  left: 3146px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 672px;
+  height: 156px;
+  cursor: pointer;
+}
+.add-to-cart {
+  position: absolute;
+  top: 3224px;
+  left: 3304px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.desktop-5-child6,
+.desktop-5-child7,
+.desktop-5-child8 {
+  position: absolute;
+  top: 2561px;
+  left: 236px;
+  border-radius: var(--br-31xl);
+  width: 1015px;
+  height: 572px;
+  object-fit: cover;
+}
+.desktop-5-child7,
+.desktop-5-child8 {
+  left: 2591px;
+}
+.desktop-5-child8 {
+  left: 1471px;
+}
+.desktop-5-child10,
+.desktop-5-child11,
+.desktop-5-child9 {
+  position: absolute;
+  top: 2861px;
+  left: 2644px;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0),
+    rgba(223, 223, 223, 0.15) 23.9%,
+    rgba(241, 241, 241, 0.62) 50.37%,
+    #fff 79.41%,
+    #fffcfc
+  );
+  width: 1003px;
+  height: 272px;
+}
+.desktop-5-child10,
+.desktop-5-child11 {
+  left: 1564px;
+}
+.desktop-5-child11 {
+  left: 248px;
+}
+.nuon4 {
+  top: 3424px;
+  left: 231px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-italianno);
+}
+.lov,
+.nuon4,
+.woman {
+  position: absolute;
+}
+.woman {
+  top: 3526px;
+  left: 306px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.lov {
+  top: 3436px;
+  left: 961px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-joti-one);
+}
+.w-a-r {
+  top: 3504px;
+  left: 1701px;
+  font-family: var(--font-josefin-slab);
+}
+.curves,
+.gia,
+.w-a-r {
+  position: absolute;
+}
+.gia {
+  top: 3405px;
+  left: 2418px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-italianno);
+}
+.curves {
+  top: 3507px;
+  left: 2487px;
+  font-size: var(--font-size-21xl);
+}
+.paisley {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.bombay-paisley,
+.utsa {
+  position: absolute;
+  top: 3429px;
+  left: 2905px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-italiana);
+}
+.utsa {
+  top: 3403px;
+  left: 3495px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-just-me-again-down-here);
+}
+.account-icon2 {
+  position: absolute;
+  top: 54px;
+  left: 3278px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.facebook-icon3,
+.instagram-icon3,
+.twitter-icon3,
+.youtube-icon3 {
+  position: absolute;
+  top: 3932px;
+  left: 3794px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon3,
+.instagram-icon3,
+.twitter-icon3 {
+  top: 3949px;
+  left: 3647px;
+}
+.facebook-icon3,
+.instagram-icon3 {
+  left: 3500px;
+}
+.instagram-icon3 {
+  left: 3353px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4223px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

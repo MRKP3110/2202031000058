@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jacques-francois-shadow: "Jacques Francois Shadow";
+  --font-just-me-again-down-here: "Just Me Again Down Here";
+  --font-italiana: Italiana;
+  --font-italianno: Italianno;
+  --font-josefin-slab: "Josefin Slab";
+  --font-joti-one: "Joti One";
+  --font-ingrid-darling: "Ingrid Darling";
+
+  /* font sizes */
+  --font-size-77xl: 96px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-41xl: 60px;
+  --font-size-45xl: 64px;
+  --font-size-29xl: 48px;
+  --font-size-109xl: 128px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-deepskyblue: rgba(73, 181, 241, 0.53);
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0);
+  --color-white: #fff;
+  --color-gray-100: #fffefe;
+  --color-gray-200: #fffdfd;
+  --color-red: #ff0000;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-6xl: 25px;
+  --br-31xl: 50px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+}
